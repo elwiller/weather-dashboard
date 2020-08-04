@@ -1,0 +1,42 @@
+#heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:#070;
+  color: #ccc;
+  height: 100px;
+  padding: auto;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+h5,
+h3,
+p {
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+#input {
+  background-color: #ccc;
+  padding: 10px;
+}
+
+#current-conditions {
+  border: #000 solid 1px;
+  border-radius: 5px;
+  background-color: #ccc;
+}
+
+#current-conditions span {
+  font-style: italic;
+  font-size: x-large;
+}
+
+.forecast {
+  margin: 5px auto;
+  color: #fff;
+}
